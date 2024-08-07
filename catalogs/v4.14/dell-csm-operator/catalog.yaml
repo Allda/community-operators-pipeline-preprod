@@ -14,7 +14,7 @@ schema: olm.channel
 ---
 entries:
 - name: dell-csm-operator.v0.1.0
-name: beta
+name: foo
 package: dell-csm-operator
 schema: olm.channel
 ---
