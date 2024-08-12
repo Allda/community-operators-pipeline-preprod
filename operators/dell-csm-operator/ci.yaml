@@ -1,6 +1,6 @@
 ---
 fbc:
-  enabled: true
+  enabled: false
 
 reviewers:
   - Allda
